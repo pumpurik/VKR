@@ -21,10 +21,10 @@
 
 ### Участники (actors) и цели (goals)
 
-| Участник  | Категория  | Цель (goal) |
+| Участник  | Категория | Цель (goal) |
 |---|---|---|
-| Пользователь | Основной  |Забронировать учебное пособие |
-| Приложение  | Инструмент  | Предоставить список доступных учебных пособий, редактировать их статус, уведомлять пользователя о несданных пособиях |
+| Пользователь | Основной |Забронировать учебное пособие |
+| Приложение  | Инструмент | Предоставить список доступных учебных пособий, редактировать их статус, уведомлять пользователя о несданных пособиях |
 
 ### Предусловия (pre-conditions)
 * Пользователь открывает приложение
@@ -60,10 +60,10 @@
 
 ## UML Use Class
 
-![img](https://github.com/pumpurik/VKR/blob/ef6b43f218d3fdd6b71dadb7e654b5637c2473b2/pic/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1.PNG)
+![img](https://github.com/pumpurik/VKR/blob/ef6b43f218d3fdd6b71dadb7e654b5637c2473b2/pic/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA3.PNG)
 
 ## UML Use Sequence
 
-![img](https://github.com/pumpurik/VKR/blob/ef6b43f218d3fdd6b71dadb7e654b5637c2473b2/pic/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA3.PNG)
+![img](https://github.com/pumpurik/VKR/blob/ef6b43f218d3fdd6b71dadb7e654b5637c2473b2/pic/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1.PNG)
  
 
